@@ -1,6 +1,10 @@
-# Ontario Building Code Chat Assistant
+# Rational Reminder Podcast Chat Assistant
 
-An interactive AI-powered chat interface for navigating and understanding the Ontario Building Code (v25). This application uses advanced natural language processing and vector search to provide accurate, context-aware responses to questions about building regulations in Ontario.
+An interactive AI-powered chat interface for navigating and understanding the Rational discussions from Ben and Cameron. This application uses advanced natural language processing and vector search to provide accurate, context-aware responses to questions about navigating the Canadian financial planning landscape.
+
+# Credit
+
+Credit to Kai Maurin-Jones, I used [his repo](https://github.com/kmaurinjones/Ontario-Building-Code-Chat) as the template.
 
 ## 🌟 Features
 
